@@ -1,0 +1,5 @@
+{"id":"#2223","naziv":"Z4","opis":"BMW Z4 kombinuje dinamiku sportskog automobila i slobodu roadstera.Istražite:\r\n \r\n\r\nJedinstven i futuristički roadster dizajn\r\nMoćna vozna dinamika sa do 250 kW (340 ks) i visoko preciznim upravljanjem\r\nM aerodinamični paket za optimizovanu efikasnost i dinamiku","tip":"1","datum":"2023-11-01"}
+{"id":"#2223","naziv":"Seria 10","opis":"awdawdawd","tip":"1","datum":"2023-11-08"}
+{"id":"231","naziv":"Series 1","opis":"Mali  mot hatch dobrih performansi","tip":"Kupe","datum":"2023-12-20"}
+{"id":"231","naziv":"Series 1","opis":"Mali  mot hatch dobrih performansi","tip":"Kupe","datum":"2023-12-20"}
+{"id":"231","naziv":"Series 1","opis":"Mali  mot hatch dobrih performansi","tip":"Kupe","datum":"2023-12-20"}

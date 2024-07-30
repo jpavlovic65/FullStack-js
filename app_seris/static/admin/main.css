@@ -1,0 +1,133 @@
+body{
+    background-image: url("pozadina.jpg");
+    background-size: cover;
+    background-color: gray;
+    background-repeat: repeat;
+    background-size: 800px 1440px;
+}
+
+main.container{ 
+    background-color:rgb(255, 255, 255); 
+    box-shadow: 0px 0px 12px black; 
+    border:1px solid black; 
+    margin-top:40px; 
+
+    }
+    
+.nav-custom{
+    background-color: rgb(3, 172, 237);
+}
+.login{
+    position: relative;
+    margin: auto;
+   width:350px; 
+   margin-top:100px;
+   margin-bottom: 100px;
+   
+}
+.login button{
+    position: relative;
+    margin-left: 39% ;
+    margin-bottom: 5px;
+}
+.bar{
+    height: 50px;
+}
+.bar h1{
+    position: relative;
+    margin: auto;
+    color: antiquewhite;
+}
+    
+.tabela {
+    padding-left: 30pt;
+    padding-right: 30pt;
+    padding-bottom: 20pt;
+    flex-shrink: 3;
+}
+
+.tabela2 {
+    padding-left: 30pt;
+    padding-right: 30pt;
+    padding-bottom: 20pt;
+    
+}
+
+.tabela2 dt{
+    font-family: 'Lucida Console',cursive;
+    font-size: x-large;
+  
+}
+
+main h1{
+    font-family: "Lucida Console", "Courier New", cursive;
+    color: #48483e;
+    
+    
+}
+
+#povratak{
+    position: relative;
+    left: 95%;
+}
+ 
+
+.error{
+    border-color: red;
+}
+.success{
+     border-color:green; 
+}
+.bnt-zeleno{
+    background-color: #F9F871;
+}
+.bnt-zeleno:hover{
+    background-color: #fcfc5a;
+}
+#index_img img{
+    float: left;
+   position: relative;
+   left: 40%;
+    width: 200px;
+    height: 200px;
+}
+#index_img p{
+    float: left;
+    box-shadow: 0px 0px 12px #272063; 
+    border:1px solid #777269;; 
+}
+#tabela_kategorije{
+    margin-left: 30pt;
+    margin-right: 30pt;
+    margin-bottom: 20pt;
+    width:95%;
+}
+.prikaz{
+    width: 175px;
+    height: 100px;
+}
+
+.btn-color{
+    background-color: rgb(3, 172, 237);
+    font-size: medium;
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+
+.btn-color:hover{
+    background-color: rgb(3, 184, 255);
+    color: aliceblue;
+}
+
+.pozicija{
+    position: relative;
+    width: 800px;
+    height: 500px;
+    margin-left: 20%;
+
+}
+.slike{
+    position: relative;
+    width: 800px;
+    height: 500px;
+}

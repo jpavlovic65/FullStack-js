@@ -1,0 +1,9 @@
+{"Naziv":"330d M","Model":"3","Cena":"23402","Godiste":"2011","Snaga":"150","Kubikaza":"2000","Opis":"Bla bla bla"}
+{"Naziv":"3.0D XD M Sport","Model":"8","Cena":"80000","Godiste":"2020","Snaga":"265","Kubikaza":"2999","Opis":"Odlicno stanje vozila,na ime kupca! M SPORT PAKET.. laser farovi.. adaptivni tempomat.. senzor mrtvog ugla..auto pilot..privlacenje vrata.. 360 3D kamera..display kljuc..zakretanje zadnjih tockova..iconic glow (svetleca maska)..head up dispay.."}
+{"Naziv":"XM Performance","Model":"10","Cena":"180000","Godiste":"2023","Snaga":"650","Kubikaza":"4560","Opis":"Nov kupljen u srbij ijedinstven primerak<br>"}
+{"Naziv":"118i","Model":"1","Cena":"35000","Godiste":"2012","Snaga":"105","Kubikaza":"1599","Opis":"Auto je u veoma dobrom stanju<br>Prelepog izgleda kameleon boja, 17ice felne<br>Motor i menjač odlični troši do 8l na 100km<br>Bez trenutnih ulaganja"}
+{"Naziv":"540i M performance","Model":"5","Cena":"60000","Godiste":"2020","Snaga":"450","Kubikaza":"3000","Opis":"Auto je nov "}
+{"Naziv":"3.0D XD M Sport","Model":"3","Cena":"2332","Godiste":"2002","Snaga":"300","Kubikaza":"2000","Opis":"dawdawdawd"}
+{"Naziv":"330d M","Model":"3","Cena":"1111","Godiste":"2000","Snaga":"1111","Kubikaza":"1111","Opis":"1111111111111"}
+{"Naziv":"330d M","Model":"3","Cena":"1111","Godiste":"2000","Snaga":"1111","Kubikaza":"1111","Opis":"1111111111111"}
+{"Naziv":"330d M","Model":"3","Cena":"1111","Godiste":"2000","Snaga":"1111","Kubikaza":"1111","Opis":"1111111111111"}
